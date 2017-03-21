@@ -1,0 +1,14 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "ReactRUtutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Eugene Stepanoff",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
