@@ -1,5 +1,8 @@
 window.ee	=	new	EventEmitter();
 
+// Some code of Developer 1
+console.log('Developer 1 code');
+
 var	my_news	=	[
   {
     author:	'Саша	Печкин',

@@ -64,3 +64,8 @@ p	{
     background:	#CCC;
     color:	#999;
 }
+
+.my-class {
+    padding: 0;
+    margin: 0;
+}
