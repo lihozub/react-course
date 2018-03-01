@@ -211,3 +211,7 @@ function myFunc() {
 function sidebar() {
   console.log('sidebar');
 }
+
+function sidebar2() {
+  console.log('sidebar2');
+}
