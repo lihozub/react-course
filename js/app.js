@@ -199,3 +199,7 @@ ReactDOM.render(
   <App />,
   document.getElementById('root')
 );
+
+function myFunc() {
+  return 2 +3;
+}
