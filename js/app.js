@@ -207,3 +207,7 @@ function logInfo() {
 function myFunc() {
   return 2 +3;
 }
+
+function sidebar() {
+  console.log('sidebar');
+}
