@@ -203,3 +203,7 @@ ReactDOM.render(
 function logInfo() {
   console.log('My information');
 }
+
+function myFunc() {
+  return 2 +3;
+}
