@@ -199,3 +199,7 @@ ReactDOM.render(
   <App />,
   document.getElementById('root')
 );
+
+function logInfo() {
+  console.log('My information');
+}
